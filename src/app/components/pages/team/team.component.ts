@@ -43,7 +43,6 @@ export class TeamComponent implements OnInit {
       buttonText: 'Button',
       img: 'https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg'
     },
-
   ];
 
   constructor() { }
